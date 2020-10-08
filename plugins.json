@@ -1,11 +1,11 @@
 [
   {
-    "name": "maxmind",
+    "name": "posthog-maxmind-plugin",
     "url": "https://github.com/mariusandra/posthog-maxmind-plugin",
     "description": "Ingest GeoIP data via MaxMind"
   },
   {
-    "name": "currency-normalization",
+    "name": "posthog-currency-normalization-plugin",
     "url": "https://github.com/mariusandra/posthog-currency-normalization-plugin",
     "description": "Convert ingested payment values between currencies"
   }
