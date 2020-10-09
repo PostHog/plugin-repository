@@ -7,7 +7,8 @@
       "geoip_path": {
         "name": "GeoIP database path",
         "type": "string",
-        "default": ""
+        "default": "",
+        "required": true
       }
     }
   },
@@ -19,32 +20,38 @@
       "openexchangerates_api_key": {
         "name": "OpenExchangeRates API Key",
         "type": "string",
-        "default": ""
+        "default": "",
+        "required": true
       },
       "normalized_currency": {
         "name": "Currency to normalise to (e.g. \"EUR\")",
         "type": "string",
-        "default": ""
+        "default": "",
+        "required": true
       },
       "amount_property": {
         "name": "Property key for the amount",
         "type": "string",
-        "default": "amount"
+        "default": "amount",
+        "required": true
       },
       "currency_property": {
         "name": "Property key for the currency",
         "type": "string",
-        "default": "currency"
+        "default": "currency",
+        "required": true
       },
       "normalized_amount_property": {
         "name": "Property key for the normalized amount",
         "type": "string",
-        "default": "normalized_amount"
+        "default": "normalized_amount",
+        "required": true
       },
       "normalized_currency_property": {
         "name": "Property key for the normalized currency",
         "type": "string",
-        "default": "normalized_currency"
+        "default": "normalized_currency",
+        "required": true
       }
     }
   }
