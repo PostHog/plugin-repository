@@ -2,57 +2,11 @@
   {
     "name": "posthog-maxmind-plugin",
     "url": "https://github.com/posthog/posthog-maxmind-plugin",
-    "description": "Ingest GeoIP data via MaxMind",
-    "config": {
-      "geoip_path": {
-        "name": "GeoIP database path",
-        "type": "string",
-        "default": "",
-        "required": true
-      }
-    }
+    "description": "Ingest GeoIP data via MaxMind"
   },
   {
     "name": "posthog-currency-normalization-plugin",
     "url": "https://github.com/mariusandra/posthog-currency-normalization-plugin",
-    "description": "Convert ingested payment values between currencies",
-    "config": {
-      "openexchangerates_api_key": {
-        "name": "OpenExchangeRates API Key",
-        "type": "string",
-        "default": "",
-        "required": true
-      },
-      "normalized_currency": {
-        "name": "Currency to normalise to (e.g. \"EUR\")",
-        "type": "string",
-        "default": "",
-        "required": true
-      },
-      "amount_property": {
-        "name": "Property key for the amount",
-        "type": "string",
-        "default": "amount",
-        "required": true
-      },
-      "currency_property": {
-        "name": "Property key for the currency",
-        "type": "string",
-        "default": "currency",
-        "required": true
-      },
-      "normalized_amount_property": {
-        "name": "Property key for the normalized amount",
-        "type": "string",
-        "default": "normalized_amount",
-        "required": true
-      },
-      "normalized_currency_property": {
-        "name": "Property key for the normalized currency",
-        "type": "string",
-        "default": "normalized_currency",
-        "required": true
-      }
-    }
+    "description": "Convert ingested payment values between currencies"
   }
 ]
