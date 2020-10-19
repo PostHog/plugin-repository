@@ -2,11 +2,16 @@
   {
     "name": "posthog-maxmind-plugin",
     "url": "https://github.com/posthog/posthog-maxmind-plugin",
-    "description": "Ingest GeoIP data via MaxMind"
+    "description": "Add IP country and location via MaxMind"
   },
   {
     "name": "posthog-currency-normalization-plugin",
-    "url": "https://github.com/mariusandra/posthog-currency-normalization-plugin",
-    "description": "Convert ingested payment values between currencies"
+    "url": "https://github.com/posthog/posthog-currency-normalization-plugin",
+    "description": "Normalise monerary values into a base currency"
+  },
+  {
+    "name": "helloworldplugin",
+    "url": "https://github.com/posthog/helloworldplugin",
+    "description": "Greet the World and Foo a Bar"
   }
 ]
