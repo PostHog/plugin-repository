@@ -2,16 +2,22 @@
   {
     "name": "posthog-maxmind-plugin",
     "url": "https://github.com/posthog/posthog-maxmind-plugin",
-    "description": "Add IP country and location via MaxMind"
+    "description": "Add IP country and location via MaxMind",
+    "verified": true,
+    "maintainer": "official"
   },
   {
     "name": "posthog-currency-normalization-plugin",
     "url": "https://github.com/posthog/posthog-currency-normalization-plugin",
-    "description": "Normalise monerary values into a base currency"
+    "description": "Normalise monerary values into a base currency",
+    "verified": false,
+    "maintainer": "official"
   },
   {
     "name": "helloworldplugin",
     "url": "https://github.com/posthog/helloworldplugin",
-    "description": "Greet the World and Foo a Bar"
+    "description": "Greet the World and Foo a Bar",
+    "verified": true,
+    "maintainer": "community"
   }
 ]
