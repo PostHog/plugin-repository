@@ -1,12 +1,5 @@
 [
   {
-    "name": "posthog-maxmind-plugin",
-    "url": "https://github.com/posthog/posthog-maxmind-plugin",
-    "description": "Add IP country and location via MaxMind",
-    "verified": true,
-    "maintainer": "official"
-  },
-  {
     "name": "posthog-currency-normalization-plugin",
     "url": "https://github.com/posthog/posthog-currency-normalization-plugin",
     "description": "Normalise monerary values into a base currency",
