@@ -1,7 +1,3 @@
-# WIP
-
-This is part of a hackathon project. This is *pre-beta*.
-
 # Plugins
 
 This repository lists plugins that are available for PostHog. Plugins enable customization of your PostHog instance.
