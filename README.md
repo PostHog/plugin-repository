@@ -8,7 +8,9 @@ Please create a pull request submitting an edit to the [plugins JSON](https://gi
 
 ## Installing a plugin
 
-The easiest way to do this is with the [PostHog CLI](https://github.com/posthog/posthog-cli).
+Find the "Plugins" page in PostHog and select the repository plugin from the list.
+
+Alternatively, use the [PostHog CLI](https://github.com/posthog/posthog-cli) to globally install a plugin.
 
 ## Creating a new plugin
 
