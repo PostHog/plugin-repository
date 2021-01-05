@@ -14,6 +14,13 @@
     "maintainer": "official"
   },
   {
+    "name": "posthog-maxmind-plugin",
+    "url": "https://www.npmjs.com/package/posthog-maxmind-plugin",
+    "description": "Enrich your collected events with GeoIP data from MaxMind",
+    "verified": false,
+    "maintainer": "official"
+  },
+  {
     "name": "helloworldplugin",
     "url": "https://www.npmjs.com/package/posthog-helloworld-plugin",
     "description": "Greet the World and Foo a Bar",
