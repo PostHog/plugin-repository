@@ -64,7 +64,7 @@
   },
   {
     "name": "Schema Enforcer",
-    "url": "https://github.com/PostHog/posthog-schema-enforcer-plugin",
+    "url": "https://www.npmjs.com/package/posthog-schema-enforcer-plugin",
     "description": "Prevent ingestion of events that don't match your specified schemas.",
     "verified": true,
     "maintainer": "official",
