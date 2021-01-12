@@ -4,27 +4,98 @@
     "url": "https://www.npmjs.com/package/posthog-currency-normalization-plugin",
     "description": "Normalise monerary values into a base currency",
     "verified": true,
-    "maintainer": "official"
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   },
   {
     "name": "posthog-maxmind-plugin",
     "url": "https://www.npmjs.com/package/posthog-maxmind-plugin",
     "description": "Enrich your collected events with GeoIP data from MaxMind",
     "verified": true,
-    "maintainer": "official"
-  },
-  {
-    "name": "posthog-maxmind-plugin",
-    "url": "https://www.npmjs.com/package/posthog-maxmind-plugin",
-    "description": "Enrich your collected events with GeoIP data from MaxMind",
-    "verified": false,
-    "maintainer": "official"
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   },
   {
     "name": "helloworldplugin",
     "url": "https://www.npmjs.com/package/posthog-helloworld-plugin",
     "description": "Greet the World and Foo a Bar",
     "verified": true,
-    "maintainer": "community"
+    "maintainer": "community",
+    "displayOnWebsiteLib": false,
+    "type": "data_in"
+  },
+  {
+    "name": "GitHub Release Tracker",
+    "url": "https://github.com/PostHog/posthog-release-tracking-plugin",
+    "description": "Integrate PostHog with GitHub and get automatic release annotations.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
+  {
+    "name": "GitLab Release Tracker",
+    "url": "https://github.com/PostHog/gitlab-release-tracking-plugin",
+    "description": "Integrate PostHog with GitLab and get automatic release annotations.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
+  {
+    "name": "Twitter Followers",
+    "url": "https://github.com/PostHog/twitter-followers-plugin",
+    "description": "Get your Twitter follower numbers daily without signing up to the Twitter API.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
+  {
+    "name": "Hubspot",
+    "url": "https://github.com/PostHog/hubspot-plugin",
+    "description": "Send emails and user data to Hubspot when you identify users using PostHog.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "Schema Enforcer",
+    "url": "https://github.com/PostHog/posthog-schema-enforcer-plugin",
+    "description": "Prevent ingestion of events that don't match your specified schemas.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
+  },
+  {
+    "name": "Customer.io",
+    "url": "https://github.com/PostHog/customerio-plugin",
+    "description": "Send event data and available emails to Customer.io.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "Sendgrid",
+    "url": "https://github.com/PostHog/sendgrid-plugin",
+    "description": "Send emails and user data to Sendgrid when you identify users using PostHog.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "Email Scoring",
+    "url": "https://github.com/PostHog/mailboxlayer-plugin",
+    "description": "Add email scores to PostHog user profiles using the the Mailboxlayer API.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
