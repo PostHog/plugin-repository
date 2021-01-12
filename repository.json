@@ -6,7 +6,8 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/plugin-repository/main/logos/currency-normalization.png"
   },
   {
     "name": "posthog-maxmind-plugin",
@@ -15,7 +16,8 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/plugin-repository/main/logos/maxmind.png"
   },
   {
     "name": "helloworldplugin",
@@ -69,7 +71,8 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "ingestion_filtering"
+    "type": "ingestion_filtering",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/plugin-repository/main/logos/schema-enforcer.png"
   },
   {
     "name": "Customer.io",
