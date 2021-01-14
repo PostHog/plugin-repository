@@ -100,5 +100,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "BigQuery Export",
+    "url": "https://github.com/PostHog/bigquery-plugin",
+    "description": "Sends events to a Google BigQuery database on ingestion.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
