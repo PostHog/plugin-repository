@@ -109,5 +109,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Useragent Enhancer",
+    "url": "https://github.com/weyert/useragentplugin",
+    "description": "Enhances events with the browser details when the event has the $useragent-property on ingestion.",
+    "verified": true,
+    "maintainer": "weyert",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
