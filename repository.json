@@ -112,7 +112,7 @@
   },
   {
     "name": "Useragent Enhancer",
-    "url": "https://github.com/weyert/useragentplugin",
+    "url": "https://www.npmjs.com/package/useragent-plugin",
     "description": "Enhances events with the browser details when the event has the $useragent-property on ingestion.",
     "verified": true,
     "maintainer": "community",
