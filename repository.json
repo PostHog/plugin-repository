@@ -109,5 +109,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Useragent Enhancer",
+    "url": "https://www.npmjs.com/package/useragent-plugin",
+    "description": "Enhances events with the browser details when the event has the $useragent-property on ingestion.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
