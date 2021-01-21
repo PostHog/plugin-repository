@@ -4,7 +4,7 @@ This repository lists plugins that are available for PostHog. Plugins enable cus
 
 ## Adding a plugin to this directory
 
-Please create a pull request submitting an edit to the [plugins JSON](https://github.com/PostHog/plugins/blob/main/plugins.json).
+Please create a pull request submitting an edit to the [repository JSON](https://github.com/PostHog/plugin-repository/blob/main/repository.json).
 
 For the 'maintainer' field, add 'official' if you are part of the PostHog team, and 'community' otherwise.
 
@@ -14,11 +14,9 @@ If your plugin is written in JavaScript, feel free to use the GitHub, GitLab, or
 
 Find the "Plugins" page in PostHog and select the repository plugin from the list.
 
-Alternatively, use the [PostHog CLI](https://github.com/posthog/posthog-cli) to globally install a plugin.
-
 ## Creating a new plugin
 
-We'll update the PostHog main docs (posthog.com/docs) with instructions on how to do this.
+Read about [Plugins](https://posthog.com/docs/plugins/overview) in the docs, especially the [Build Your Own](https://posthog.com/docs/plugins/build) page.
 
 ## Questions?
 

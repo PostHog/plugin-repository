@@ -1,32 +1,33 @@
 [
   {
-    "name": "posthog-currency-normalization-plugin",
+    "name": "Currency Normalization",
     "url": "https://www.npmjs.com/package/posthog-currency-normalization-plugin",
-    "description": "Normalise monerary values into a base currency",
+    "description": "Normalise monetary values into a base currency",
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in",
-    "imageLink": "https://raw.githubusercontent.com/PostHog/plugin-repository/main/logos/currency-normalization.png"
+    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-currency-normalization-plugin/main/logo.png"
   },
   {
-    "name": "posthog-maxmind-plugin",
+    "name": "MaxMind GeoIP",
     "url": "https://www.npmjs.com/package/posthog-maxmind-plugin",
     "description": "Enrich your collected events with GeoIP data from MaxMind",
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in",
-    "imageLink": "https://raw.githubusercontent.com/PostHog/plugin-repository/main/logos/maxmind.png"
+    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-maxmind-plugin/main/logo.png"
   },
   {
-    "name": "helloworldplugin",
+    "name": "Hello World",
     "url": "https://www.npmjs.com/package/posthog-helloworld-plugin",
     "description": "Greet the World and Foo a Bar",
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": false,
-    "type": "data_in"
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/helloworldplugin/main/logo.png"
   },
   {
     "name": "GitHub Release Tracker",
@@ -72,7 +73,7 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering",
-    "imageLink": "https://raw.githubusercontent.com/PostHog/plugin-repository/main/logos/schema-enforcer.png"
+    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-schema-enforcer-plugin/main/logo.png"
   },
   {
     "name": "Customer.io",
@@ -113,7 +114,7 @@
   {
     "name": "Useragent Enhancer",
     "url": "https://www.npmjs.com/package/useragent-plugin",
-    "description": "Enhances events with the browser details when the event has the $useragent-property on ingestion.",
+    "description": "Enhances events with browser details when the event has a \"$useragent\" property.",
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
