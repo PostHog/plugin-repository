@@ -72,7 +72,8 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "ingestion_filtering"
+    "type": "ingestion_filtering",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-schema-enforcer-plugin/main/logo.png"
   },
   {
     "name": "Customer.io",
