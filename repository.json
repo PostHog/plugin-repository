@@ -6,7 +6,8 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-currency-normalization-plugin/main/logo.png"
   },
   {
     "name": "MaxMind GeoIP",
@@ -15,7 +16,8 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-maxmind-plugin/main/logo.png"
   },
   {
     "name": "Hello World",
@@ -24,7 +26,8 @@
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": false,
-    "type": "data_in"
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/PostHog/helloworldplugin/main/logo.png"
   },
   {
     "name": "GitHub Release Tracker",
