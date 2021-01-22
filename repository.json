@@ -47,6 +47,15 @@
     "displayOnWebsiteLib": true,
     "type": "data_in"
   },
+    {
+    "name": "Bitbucket Release Tracker",
+    "url": "https://github.com/PostHog/bitbucket-release-tracker",
+    "description": "Integrate PostHog with Bitbucket and get automatic release annotations.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
   {
     "name": "Twitter Followers",
     "url": "https://github.com/PostHog/twitter-followers-plugin",
