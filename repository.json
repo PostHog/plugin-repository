@@ -1,17 +1,16 @@
 [
   {
     "name": "Currency Normalization",
-    "url": "https://www.npmjs.com/package/posthog-currency-normalization-plugin",
+    "url": "https://github.com/PostHog/posthog-currency-normalization-plugin",
     "description": "Normalise monetary values into a base currency",
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in",
-    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-currency-normalization-plugin/main/logo.png"
+    "type": "data_in"
   },
   {
     "name": "MaxMind GeoIP",
-    "url": "https://www.npmjs.com/package/posthog-maxmind-plugin",
+    "url": "https://www.npmjs.com/package/@posthog/maxmind-plugin",
     "description": "Enrich your collected events with GeoIP data from MaxMind",
     "verified": true,
     "maintainer": "official",
@@ -21,13 +20,12 @@
   },
   {
     "name": "Hello World",
-    "url": "https://www.npmjs.com/package/posthog-helloworld-plugin",
+    "url": "https://github.com/PostHog/helloworldplugin",
     "description": "Greet the World and Foo a Bar",
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": false,
-    "type": "data_in",
-    "imageLink": "https://raw.githubusercontent.com/PostHog/helloworldplugin/main/logo.png"
+    "type": "data_in"
   },
   {
     "name": "GitHub Release Tracker",
