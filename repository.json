@@ -126,5 +126,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Timestamp Parser",
+    "url": "https://github.com/PostHog/timestamp-parser-plugin",
+    "description": "Parse your event timestamps into useful date properties.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
