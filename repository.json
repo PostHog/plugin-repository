@@ -125,7 +125,8 @@
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/weyert/useragentplugin/main/logo.png"
   },
   {
     "name": "Timestamp Parser",
