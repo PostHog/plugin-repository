@@ -1,7 +1,7 @@
 [
   {
     "name": "Currency Normalization",
-    "url": "https://github.com/PostHog/posthog-currency-normalization-plugin",
+    "url": "https://github.com/PostHog/currency-normalization-plugin",
     "description": "Normalise monetary values into a base currency",
     "verified": true,
     "maintainer": "official",
