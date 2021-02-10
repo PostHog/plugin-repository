@@ -29,7 +29,7 @@
   },
   {
     "name": "GitHub Release Tracker",
-    "url": "https://github.com/PostHog/posthog-release-tracking-plugin",
+    "url": "https://github.com/PostHog/github-release-tracking-plugin",
     "description": "Integrate PostHog with GitHub and get automatic release annotations.",
     "verified": true,
     "maintainer": "official",
@@ -74,7 +74,7 @@
   },
   {
     "name": "Schema Enforcer",
-    "url": "https://www.npmjs.com/package/posthog-schema-enforcer-plugin",
+    "url": "https://www.npmjs.com/package/@posthog/schema-enforcer-plugin",
     "description": "Prevent ingestion of events that don't match your specified schemas.",
     "verified": true,
     "maintainer": "official",
