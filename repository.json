@@ -1,7 +1,7 @@
 [
   {
     "name": "Currency Normalization",
-    "url": "https://github.com/PostHog/posthog-currency-normalization-plugin",
+    "url": "https://github.com/PostHog/currency-normalization-plugin",
     "description": "Normalise monetary values into a base currency",
     "verified": true,
     "maintainer": "official",
@@ -29,7 +29,7 @@
   },
   {
     "name": "GitHub Release Tracker",
-    "url": "https://github.com/PostHog/posthog-release-tracking-plugin",
+    "url": "https://github.com/PostHog/github-release-tracking-plugin",
     "description": "Integrate PostHog with GitHub and get automatic release annotations.",
     "verified": true,
     "maintainer": "official",
@@ -74,7 +74,7 @@
   },
   {
     "name": "Schema Enforcer",
-    "url": "https://www.npmjs.com/package/posthog-schema-enforcer-plugin",
+    "url": "https://www.npmjs.com/package/@posthog/schema-enforcer-plugin",
     "description": "Prevent ingestion of events that don't match your specified schemas.",
     "verified": true,
     "maintainer": "official",
@@ -138,6 +138,15 @@
     "type": "data_in"
   },
   {
+    "name": "GitHub Star Sync",
+    "url": "https://github.com/PostHog/github-star-sync-plugin",
+    "description": "Sync GitHub stars for a repository (one event per star)",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
+  {
     "name": "Taxonomy Standardizer",
     "url": "https://github.com/PostHog/taxonomy-plugin",
     "description": "Standardize your event names into a single pattern.",
@@ -145,5 +154,5 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
-  },
+  }
 ]
