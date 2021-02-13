@@ -145,5 +145,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Taxonomy Standardizer",
+    "url": "https://github.com/PostHog/taxonomy-plugin",
+    "description": "Standardize your event names into a single pattern.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
