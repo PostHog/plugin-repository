@@ -135,7 +135,7 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "ingestion_filtering"
   },
   {
     "name": "GitHub Star Sync",
@@ -153,6 +153,15 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "ingestion_filtering"
+  },
+  {
+    "name": "Property Flattener",
+    "url": "https://github.com/PostHog/flatten-properties-plugin",
+    "description": "Flatten event properties to easily access them in filters.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
   }
 ]
