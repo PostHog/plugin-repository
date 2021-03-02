@@ -163,5 +163,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "Event Sequence Timer Plugin",
+    "url": "https://github.com/PostHog/event-sequence-timer-plugin",
+    "description": "Measure the time taken for a user to perform Event B after performing Event A.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
   }
 ]
