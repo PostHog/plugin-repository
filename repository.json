@@ -172,5 +172,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "First Time Event Tracker",
+    "url": "https://github.com/PostHog/first-time-event-tracker",
+    "description": "Track if a given event is the first event of this type for a user or the first event of its type ever.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
   }
 ]
