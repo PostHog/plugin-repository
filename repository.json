@@ -9,14 +9,13 @@
     "type": "data_in"
   },
   {
-    "name": "MaxMind GeoIP",
-    "url": "https://www.npmjs.com/package/@posthog/maxmind-plugin",
-    "description": "Enrich your collected events with GeoIP data from MaxMind",
+    "name": "GeoIP",
+    "url": "https://github.com/PostHog/posthog-plugin-geoip",
+    "description": "Enrich PostHog events and persons with IP location data.",
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in",
-    "imageLink": "https://raw.githubusercontent.com/PostHog/posthog-maxmind-plugin/main/logo.png"
+    "type": "data_in"
   },
   {
     "name": "Hello World",
