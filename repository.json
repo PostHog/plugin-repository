@@ -119,6 +119,15 @@
     "type": "data_out"
   },
   {
+    "name": "S3 Export",
+    "url": "https://github.com/PostHog/s3-export-plugin",
+    "description": "Sends events to a S3 bucket on ingestion.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
     "name": "Useragent Enhancer",
     "url": "https://www.npmjs.com/package/useragent-plugin",
     "description": "Enhances events with browser details when the event has a \"$useragent\" property.",
