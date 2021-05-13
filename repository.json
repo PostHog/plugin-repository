@@ -1,5 +1,14 @@
 [
   {
+    "name": "Salesforce",
+    "url": "https://github.com/Vinovest/posthog-salesforce",
+    "description": "Send events to a salesforce endpoint",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": false,
+    "type": "data_out"
+  },
+  {
     "name": "Currency Normalization",
     "url": "https://github.com/PostHog/currency-normalization-plugin",
     "description": "Normalise monetary values into a base currency",
