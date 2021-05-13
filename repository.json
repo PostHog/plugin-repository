@@ -208,7 +208,7 @@
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
   },
-    {
+  {
     "name": "Salesforce",
     "url": "https://github.com/Vinovest/posthog-salesforce",
     "description": "Send events to a salesforce endpoint",
