@@ -6,7 +6,8 @@
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": false,
-    "type": "data_out"
+    "type": "data_out",
+    "imageLink": "https://raw.githubusercontent.com/Vinovest/posthog-salesforce/main/logo.png"
   },
   {
     "name": "Currency Normalization",
