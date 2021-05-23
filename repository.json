@@ -235,5 +235,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Session Tracker",
+    "url": "https://github.com/PostHog/session-tracker-plugin",
+    "description": "Send a custom event whenever a user session starts or ends",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
