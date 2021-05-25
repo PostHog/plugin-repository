@@ -217,5 +217,23 @@
     "displayOnWebsiteLib": false,
     "type": "data_out",
     "imageLink": "https://raw.githubusercontent.com/Vinovest/posthog-salesforce/main/logo.png"
+  },
+  {
+    "name": "Redshift Export",
+    "url": "https://github.com/PostHog/redshift-plugin",
+    "description": "Sends events to Redshift on ingestion.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "Downsampling",
+    "url": "https://github.com/PostHog/downsampling-plugin",
+    "description": "Reduces the number of events going into PostHog.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
