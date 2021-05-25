@@ -219,9 +219,9 @@
     "imageLink": "https://raw.githubusercontent.com/Vinovest/posthog-salesforce/main/logo.png"
   },
   {
-    "name": "RedShift Export",
+    "name": "Redshift Export",
     "url": "https://github.com/PostHog/redshift-plugin",
-    "description": "Sends events to RedShift on ingestion.",
+    "description": "Sends events to Redshift on ingestion.",
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
