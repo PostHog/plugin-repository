@@ -235,5 +235,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "PostgreSQL Export",
+    "url": "https://github.com/PostHog/postgres-plugin",
+    "description": "Export PostHog events to a PostgreSQL instance on ingestion.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
