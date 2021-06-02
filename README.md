@@ -1,15 +1,15 @@
 # Plugins
 
-This repository lists plugins that are available for PostHog. Plugins enable customization of your PostHog instance.
+This repository lists plugins that are available for PostHog. Plugins enable customization of your PostHog instance, providing tools for doing things like getting data in and out of PostHog, as well as running scheduled jobs.
 
+This repository is the source for the in-app plugin library as well as our website's [Plugins page](https://posthog.com/plugins).
 ## Adding a plugin to this directory
 
-Please create a pull request submitting an edit to the [repository JSON](https://github.com/PostHog/plugin-repository/blob/main/repository.json).
+Please create a pull request submitting an edit to the [`repository.json`](https://github.com/PostHog/plugin-repository/blob/main/repository.json) file.
 
 For the 'maintainer' field, add 'official' if you are part of the PostHog team, and 'community' otherwise.
 
-If your plugin is written in JavaScript, feel free to use the GitHub, GitLab, or npm URL. However, if it is TypeScript-based, please include the npm URL so PostHog knows where to fetch the compiled JS files from.
-
+For the plugin URL, we support GitHub, GitLab, and `npm` URLs. GitHub is preferred.
 ## Installing a plugin
 
 Find the "Plugins" page in PostHog and select the repository plugin from the list.
