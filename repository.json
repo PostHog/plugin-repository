@@ -244,7 +244,7 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
-  }
+  },
   {
     "name": "Pagerduty (BETA)",
     "url": "https://github.com/PostHog/posthog-pagerduty-plugin",
