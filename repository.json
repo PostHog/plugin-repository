@@ -245,4 +245,13 @@
     "displayOnWebsiteLib": true,
     "type": "data_out"
   }
+  {
+    "name": "Pagerduty (BETA)",
+    "url": "https://github.com/PostHog/posthog-pagerduty-plugin",
+    "description": "This plugin alerts PagerDuty when a PostHog insights/trends graph goes below or above a threshold.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "monitoring"
+  },
 ]
