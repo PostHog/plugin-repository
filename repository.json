@@ -19,10 +19,10 @@
   },
   {
     "name": "Hello World",
-    "url": "https://github.com/PostHog/helloworldplugin",
-    "description": "Greet the World and Foo a Bar",
+    "url": "https://github.com/PostHog/posthog-hello-world-plugin",
+    "description": "Greet the world with every PostHog event",
     "verified": true,
-    "maintainer": "community",
+    "maintainer": "official",
     "displayOnWebsiteLib": false,
     "type": "data_in"
   },
