@@ -253,5 +253,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
-  }
+  },
+  {
+    "name": "Automatic Cohort Creator",
+    "url": "https://github.com/PostHog/posthog-automatic-cohorts-plugin",
+    "description": "Automatic cohort creation based on user properties.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+   }
 ]
