@@ -255,6 +255,15 @@
     "type": "data_out"
   },
   {
+    "name": "GCS Export",
+    "url": "https://github.com/PostHog/posthog-gcs-plugin",
+    "description": "Export events to a Google Cloud Storage bucket.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
     "name": "Automatic Cohort Creator",
     "url": "https://github.com/PostHog/posthog-automatic-cohorts-plugin",
     "description": "Automatic cohort creation based on user properties.",
