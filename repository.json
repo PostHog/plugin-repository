@@ -271,5 +271,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
-   }
+  },
+  {
+    "name": "RudderStack Export",
+    "url": "https://github.com/rudderlabs/rudderstack-posthog-plugin",
+    "description": "Export events from PostHog to Rudderstack, using PostHog as a RudderStack source.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  }
 ]
