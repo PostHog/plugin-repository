@@ -280,5 +280,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Orbit Stats Sync",
+    "url": "https://github.com/PostHog/posthog-orbit-love-plugin",
+    "description": "Regularly sync statistics from Orbit.love directly into PostHog.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
