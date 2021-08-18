@@ -293,7 +293,7 @@
   {
     "name": "Redshift Import Plugin (BETA)",
     "url": "https://github.com/PostHog/posthog-redshift-import-plugin",
-    "description": "Import data from Redshift into PostHog.",
+    "description": "Import data from Redshift into PostHog. (This plugin is in BETA, use at your own risk!)",
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
