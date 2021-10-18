@@ -298,5 +298,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Github Star Sync",
+    "url": "https://github.com/PostHog/github-star-sync-plugin",
+    "description": "Synchronise Github stars with PostHog, with each star as a separate event.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
