@@ -316,5 +316,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Migrator 3000 (Beta)",
+    "url": "https://github.com/PostHog/posthog-plugin-migrator3000",
+    "description": "BETA - Migrate events to a new PostHog instance. Currently available for self-hosted users only.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
