@@ -111,7 +111,7 @@
   {
     "name": "Email Scoring",
     "url": "https://github.com/PostHog/mailboxlayer-plugin",
-    "description": "Add email scores to PostHog user profiles using the the Mailboxlayer API.",
+    "description": "Add email scores to PostHog user profiles using the Mailboxlayer API.",
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
