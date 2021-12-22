@@ -218,6 +218,15 @@
     "type": "ingestion_filtering"
   },
   {
+    "name": "First Event Today",
+    "url": "https://github.com/PostHog/first-event-today",
+    "description": "Track if a given event is the first event of this type for a user today.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
+  },
+  {
     "name": "Salesforce",
     "url": "https://github.com/Vinovest/posthog-salesforce",
     "description": "Send events to a salesforce endpoint",
