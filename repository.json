@@ -334,5 +334,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "First Event Today",
+    "url": "https://github.com/PostHog/first-event-today",
+    "description": "Track if it's the first time today that your users send any event.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
