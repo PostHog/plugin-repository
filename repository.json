@@ -343,5 +343,15 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Event Filter",
+    "url": "https://github.com/GoPreki/posthog-event-filter-plugin",
+    "description": "Stop storing specified events",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in",
+    "imageLink": "https://raw.githubusercontent.com/GoPreki/posthog-event-filter-plugin/main/icon.png"
   }
 ]
