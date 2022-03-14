@@ -1,4 +1,4 @@
-# Plugins
+# [DEPRECATED] Plugins
 
 This repository lists plugins that are available for PostHog. Plugins enable customization of your PostHog instance, providing tools for doing things like getting data in and out of PostHog, as well as running scheduled jobs.
 
